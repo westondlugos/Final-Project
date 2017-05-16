@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Chest.cs" />
      <Compile Include="Assets\Open.cs" />
      <None Include="Assets\Wispy Sky\ReadMe.txt" />
  <Reference Include="UnityEngine.UI">
